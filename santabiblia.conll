@@ -1,0 +1,1549 @@
+santa santo NOUN ROOT santa
+biblia biblia ADJ amod santa
+testamento testamento NOUN appos santa
+señor señor NOUN nmod testamento
+jesucristo jesucristo ADJ amod señor
+versión versión NOUN appos santa
+casiodoro casiodoro NOUN nmod versión
+reina reinar NOUN nmod casiodoro
+revisada revisar ADJ amod versión
+cipriano cipriano ADJ obj revisada
+valera valera NOUN nmod cipriano
+revisiones revisión NOUN appos santa
+
+================================================================================
+incluye incluir VERB parataxis #
+gracia gracia NOUN nmod era
+libros libro NOUN obj #
+
+================================================================================
+santo santo ADJ amod evangelio
+evangelio evangelio NOUN ROOT evangelio
+
+================================================================================
+mateo matear NOUN obj san
+
+================================================================================
+genealogía genealogía NOUN ROOT genealogía
+jesucristo jesucristo NOUN nmod genealogía
+
+================================================================================
+
+3.23 3.23 NOUN ROOT 3.23
+
+================================================================================
+libro librar NOUN ROOT libro
+genealogía genealogía NOUN nmod libro
+jesucristo jesucristo NOUN nmod genealogía
+hijo hijo NOUN appos genealogía
+david david NOUN nmod hijo
+hijo hijo NOUN appos libro
+abraham abraham VERB nmod hijo
+
+================================================================================
+abraham abraham VERB ROOT abraham
+engendró engendrar NOUN obj abraham
+isaac isaac NOUN nmod engendró
+isaac isaac ADJ conj isaac
+jacob jacob NOUN nmod isaac
+jacob jacob NOUN conj abraham
+judá judá NOUN obl jacob
+hermanos hermano NOUN conj judá
+
+judá judá VERB nsubj engendró
+engendró engendrar NOUN ROOT engendró
+tamar tamar VERB acl engendró
+fares fares NOUN obj tamar
+zara zara NOUN conj tamar
+fares fares NOUN amod engendró
+esrom esrom NOUN nmod fares
+esrom esrom NOUN conj engendró
+aram aram NOUN nmod esrom
+
+aram aram NOUN ROOT aram
+engendró engendrar NOUN obj aram
+aminadab aminadab NOUN advmod engendró
+aminadab aminadab VERB advmod engendró
+naasón naasón NOUN obl aminadab
+naasón naasón NOUN conj aram
+salmón salmón NOUN nmod naasón
+
+salmón salmón NOUN amod engendró
+engendró engendrar NOUN ROOT engendró
+rahab rahab NOUN nmod engendró
+booz booz NOUN nmod engendró
+booz booz VERB amod engendró
+engendró engendrar NOUN advcl engendró
+obed obed VERB nmod engendró
+obed obed VERB conj engendró
+isaí isaí NOUN fixed a
+
+isaí isaí NOUN nsubj engendró
+engendró engendrar NOUN ROOT engendró
+david david PROPN appos rey
+david david VERB nsubj engendró
+engendró engendrar NOUN conj engendró
+salomón salomón NOUN iobj engendró
+mujer mujer NOUN acl salomón
+urías urías NOUN nmod mujer
+
+salomón salomón NOUN nsubj engendró
+engendró engendrar NOUN ROOT engendró
+roboam roboam VERB acl engendró
+roboam roboam VERB advcl engendró
+abías abías NOUN obj roboam
+abías abías NOUN conj engendró
+
+engendró engendrar NOUN obj asa
+josafat josafat NOUN obj asa
+josafat josafat AUX amod asa
+joram joram VERB nmod josafat
+joram joram VERB conj asa
+uzías uzías NOUN nmod joram
+
+uzías uzías NOUN nsubj engendró
+engendró engendrar NOUN ROOT engendró
+jotam jotam NOUN obj engendró
+jotam jotam VERB amod jotam
+acaz acaz ADJ nmod jotam
+acaz acaz ADV conj jotam
+ezequías ezequías NOUN nmod acaz
+
+ezequías ezequías NOUN nsubj engendró
+engendró engendrar ADJ parataxis manasés
+manasés manasés NOUN advmod engendró
+manasés manasés NOUN ROOT manasés
+amón amón NOUN fixed a
+amón amón VERB conj manasés
+josías josías NOUN nmod amón
+
+josías josías NOUN nsubj engendró
+engendró engendrar NOUN ROOT engendró
+jeconías jeconías NOUN obj engendró
+hermanos hermano NOUN conj jeconías
+deportación deportación NOUN nmod tiempo
+babilonia babilonio NOUN nmod deportación
+
+================================================================================
+deportación deportación NOUN obl después
+babilonia babilonio NOUN nmod deportación
+jeconías jeconías NOUN nsubj engendró
+engendró engendrar NOUN ROOT engendró
+salatiel salatiel NOUN obj engendró
+salatiel salatiel ADJ conj engendró
+zorobabel zorobabel NOUN nmod salatiel
+
+zorobabel zorobabel ADV nsubj engendró
+engendró engendrar NOUN ROOT engendró
+abiud abiud NOUN obj engendró
+abiud abiud VERB advcl engendró
+eliaquim eliaquim NOUN obj abiud
+eliaquim eliaquim NOUN conj engendró
+azor azor NOUN obj eliaquim
+
+azor azor VERB nsubj engendró
+engendró engendrar NOUN ROOT engendró
+sadoc sadoc ADV obj engendró
+sadoc sadoc ADV advcl engendró
+aquim aquim NOUN obj sadoc
+aquim aquim ADJ conj engendró
+eliud eliud VERB obj aquim
+
+eliud eliud VERB nsubj engendró
+engendró engendrar NOUN ROOT engendró
+eleazar eleazar VERB xcomp engendró
+eleazar eleazar VERB advcl engendró
+matán matán NOUN obl eleazar
+matán matán VERB advcl engendró
+jacob jacob NOUN obl matán
+jacob jacob NOUN conj 16
+engendró engendrar NOUN conj engendró
+josé josé NOUN obj engendró
+marido maridar NOUN appos josé
+maría maría NOUN nmod marido
+nació nacer VERB acl maría
+jesús jesús ADV nsubj nació
+llamado llamar ADJ advcl nació
+cristo cristo NOUN obj llamado
+
+================================================================================
+generaciones generación NOUN nsubj catorce
+abraham abraham VERB nmod generaciones
+david david NOUN obl abraham
+catorce catorce NUM parataxis 17
+david david NOUN nmod 17
+deportación deportación NOUN nmod david
+babilonia babilonio ADJ nmod deportación
+catorce catorce NUM appos david
+deportación deportación NOUN obl catorce
+babilonia babilonio NOUN nmod deportación
+cristo cristo NOUN nmod deportación
+catorce catorce NUM ROOT catorce
+
+================================================================================
+nacimiento nacimiento NOUN ROOT nacimiento
+jesucristo jesucristo NOUN nmod nacimiento
+
+================================================================================
+
+
+================================================================================
+nacimiento nacimiento NOUN nsubj así
+jesucristo jesucristo NOUN nmod nacimiento
+estando estar AUX aux desposada
+desposada desposar ADJ advcl así
+maría maría VERB ROOT maría
+madre madre NOUN obj maría
+josé josé NOUN obl maría
+juntasen juntar VERB advcl antes
+halló hallar VERB advcl maría
+concebido concebir VERB csubj halló
+espíritu espíritu NOUN obj concebido
+santo santo ADJ amod espíritu
+
+josé josé NOUN nsubj quiso
+marido maridar NOUN appos josé
+justo justar ADJ acl marido
+quería querer VERB conj josé
+infamarla infamarla NOUN obj quería
+quiso querer VERB ROOT quiso
+dejarla dejarla NOUN obj quiso
+secretamente secretamente ADV advmod dejarla
+
+pensando pensar VERB conj 20
+ángel ángel NOUN obj he
+señor señor NOUN nmod ángel
+apareció aparecer VERB ROOT apareció
+sueños sueño NOUN obl apareció
+josé josé NOUN obj dijo
+hijo hijo NOUN appos josé
+david david NOUN nmod hijo
+temas temer NOUN conj josé
+recibir recibir VERB acl temas
+maría maría NOUN ccomp dijo
+mujer mujer NOUN obj maría
+engendrado engendrar VERB advcl dijo
+espíritu espíritu NOUN obl engendrado
+santo santo ADJ amod espíritu
+
+dará dar VERB conj 21
+hijo hijo NOUN obj dará
+llamarás llamar VERB conj 21
+nombre nombrar NOUN obj llamarás
+jesús jesús ADJ amod nombre
+salvará salvar VERB advcl llamarás
+pueblo poblar NOUN obj salvará
+pecados pecar NOUN nmod pueblo
+
+aconteció acontecer VERB ROOT aconteció
+cumpliese cumplir VERB advcl aconteció
+señor señor NOUN obj dicho
+profeta profeta NOUN nmod señor
+
+================================================================================
+virgen virgen PROPN nsubj concebirá
+concebirá concebir VERB advcl he
+dará dar VERB conj he
+hijo hijo NOUN obj dará
+
+================================================================================
+llamarás llamar VERB ROOT llamarás
+nombre nombrar NOUN obj llamarás
+emanuel emanuel ADJ amod nombre
+
+================================================================================
+traducido traducir ADJ csubj es
+dios dios NOUN ROOT dios
+
+despertando despertar VERB conj 24
+josé josé NOUN obj despertando
+sueño soñar NOUN nmod josé
+ángel ángel NOUN obj hizo
+señor señor NOUN nmod ángel
+mandado mandar VERB ROOT mandado
+recibió recibir VERB conj mandado
+mujer mujer NOUN obj recibió
+
+conoció conocer VERB conj 25
+hijo hijo NOUN obj dio
+primogénito primogénito ADJ amod hijo
+puso poner VERB conj 25
+nombre nombrar NOUN obl puso
+jesús jesús ADJ amod nombre
+
+================================================================================
+visita visitar NOUN ROOT visita
+magos mago NOUN nmod visita
+
+================================================================================
+jesús jesús ADV nsubj nació
+nació nacer VERB advcl 1
+belén belén NOUN obl nació
+judea judea NOUN nmod belén
+herodes herodes ADJ amod rey
+vinieron venir VERB ROOT vinieron
+oriente orientar NOUN obl vinieron
+jerusalén jerusalén NOUN obl vinieron
+magos mago NOUN obj vinieron
+diciendo decir AUX aux está
+judíos judío NOUN nmod rey
+nacido nacer VERB acl rey
+
+estrella estrellar NOUN nsubj visto
+visto vestir VERB ROOT visto
+oriente orientar NOUN obl visto
+venimos venir VERB conj visto
+adorarle adorarle NOUN fixed a
+
+oyendo oír VERB ROOT oyendo
+herodes herodes ADJ amod rey
+turbó turbar VERB advcl oyendo
+jerusalén jerusalén NOUN conj oyendo
+
+convocados convocar ADJ conj 4
+principales principal ADJ amod sacerdotes
+sacerdotes sacerdote NOUN conj 4
+escribas escribir NOUN conj sacerdotes
+pueblo poblar NOUN nmod escribas
+preguntó preguntar VERB ROOT preguntó
+nacer nacer VERB xcomp preguntó
+cristo cristo NOUN obj nacer
+
+belén belén NOUN obl dijeron
+judea judea NOUN nmod belén
+escrito escribir ADJ advcl dijeron
+profeta profeta NOUN obl escrito
+
+================================================================================
+belén belén NOUN conj 6
+tierra tierra NOUN nmod 6
+judá judá NOUN nmod tierra
+
+================================================================================
+pequeña pequeño ADJ ROOT pequeña
+príncipes príncipe NOUN obl pequeña
+judá judá NOUN nmod príncipes
+
+================================================================================
+saldrá salir VERB ROOT saldrá
+guiador guiador NOUN obj saldrá
+
+================================================================================
+apacentará apacentar VERB ROOT apacentará
+pueblo poblar NOUN obj apacentará
+israel israel ADJ amod pueblo
+
+================================================================================
+herodes herodes ADJ nsubj indagó
+llamando llamar VERB advcl herodes
+secreto secretar NOUN obl llamando
+magos mago NOUN obj llamando
+indagó indagar VERB ROOT indagó
+diligentemente diligentemente ADV advmod indagó
+aparición aparición NOUN nmod tiempo
+estrella estrellar NOUN nmod aparición
+enviándolos enviándolos NOUN conj 8
+belén belén NOUN nmod enviándolos
+allá allá ADV advmod id
+averiguad averiguar ADJ conj id
+diligencia diligenciar NOUN obl averiguad
+acerca acercar ADV case niño
+niño niño NOUN nmod diligencia
+halléis hallar VERB acl hacédmelo
+hacédmelo hacédmelo NOUN nsubj saber
+adore adorar VERB conj vaya
+
+habiendo haber AUX aux oído
+oído oír VERB ROOT oído
+estrella estrellar NOUN obj he
+visto vestir VERB acl estrella
+oriente orientar NOUN obl visto
+llegando llegar VERB advcl detuvo
+detuvo detener VERB conj oído
+niño niño NOUN nsubj estaba
+
+estrella estrellar NOUN obj ver
+regocijaron regocijar VERB ROOT regocijaron
+grande grande ADJ amod gozo
+gozo gozar NOUN obl regocijaron
+
+entrar entrar VERB conj 11
+casa casar NOUN obl entrar
+vieron ver VERB ROOT vieron
+niño niño NOUN obj vieron
+madre madre NOUN obl vieron
+maría maría VERB ccomp vieron
+postrándose postrándose ADJ conj maría
+adoraron adorar VERB advcl vieron
+abriendo abrir VERB advcl ofrecieron
+tesoros tesoro NOUN obj abriendo
+ofrecieron ofrecer VERB conj vieron
+presentes presente ADJ obj ofrecieron
+incienso incensar ADJ conj oro
+mirra mirra NOUN conj oro
+
+avisados avisar ADJ conj 12
+revelación revelación NOUN obl avisados
+sueños sueño NOUN obl avisados
+volviesen volver AUX acl sueños
+herodes herodes NOUN obl volviesen
+regresaron regresar VERB ROOT regresaron
+tierra tierra NOUN obl regresaron
+camino caminar NOUN obl regresaron
+
+================================================================================
+matanza matanza NOUN ROOT matanza
+niños niño NOUN nmod matanza
+
+================================================================================
+partieron partir VERB advcl después
+ángel ángel NOUN obj he
+señor señor NOUN nmod ángel
+apareció aparecer VERB ROOT apareció
+sueños sueño NOUN fixed en
+josé josé NOUN obl apareció
+levántate levántate NOUN ccomp dijo
+toma tomar VERB conj levántate
+niño niño NOUN nmod levántate
+madre madre NOUN conj niño
+huye huir VERB conj levántate
+egipto egipto NOUN obl huye
+permanece permanecer VERB conj levántate
+allá allá ADV advmod permanece
+diga decir VERB advcl permanece
+acontecerá acontecer VERB advcl apareció
+herodes herodes NOUN nsubj buscará
+buscará buscar VERB ccomp acontecerá
+niño niño NOUN obj buscará
+matarlo matarlo VERB nmod niño
+
+despertando despertar VERB advcl 14
+tomó tomar VERB ROOT tomó
+noche noche NOUN obl tomó
+niño niño NOUN iobj tomó
+madre madre NOUN conj niño
+egipto egipto NOUN conj tomó
+allá allá ADV advmod estuvo
+muerte muerte NOUN obl estuvo
+herodes herodes NOUN nmod muerte
+cumpliese cumplir VERB advcl tomó
+señor señor NOUN nsubj dijo
+profeta profeta NOUN nmod señor
+egipto egipto NOUN obl dijo
+llamé llamar VERB amod egipto
+hijo hijo NOUN nmod egipto
+
+================================================================================
+herodes herodes NOUN nsubj enojó
+burlado burlar ADJ obj vio
+magos mago NOUN obj burlado
+enojó enojar VERB ROOT enojó
+mandó mandar VERB conj enojó
+matar matar VERB xcomp mandó
+niños niño NOUN obj matar
+menores menor ADJ amod niños
+años año NOUN nmod niños
+belén belén NOUN obl había
+alrededores alrededor NOUN conj belén
+conforme conformar NOUN case tiempo
+inquirido inquirir VERB acl tiempo
+magos mago NOUN obl inquirido
+
+cumplió cumplir VERB ROOT cumplió
+profeta profeta NOUN obj dicho
+jeremías jeremías NOUN amod profeta
+
+================================================================================
+oída oír VERB ROOT oída
+ramá ramá NOUN obl oída
+
+================================================================================
+grande grande ADJ amod lamentación
+lamentación lamentación NOUN ROOT lamentación
+lloro llorar NOUN conj lamentación
+gemido gemir ADJ conj lamentación
+
+================================================================================
+raquel raquel VERB ROOT raquel
+llora llorar VERB ccomp raquel
+hijos hijo NOUN obj llora
+
+================================================================================
+quiso querer VERB ROOT quiso
+consolada consolar VERB ccomp quiso
+perecieron perecer VERB advcl consolada
+
+================================================================================
+muerto morir NOUN obl después
+herodes herodes ADJ ROOT herodes
+ángel ángel NOUN obj he
+señor señor NOUN nmod ángel
+apareció aparecer VERB advcl herodes
+sueños sueño NOUN fixed en
+josé josé NOUN obl apareció
+egipto egipto NOUN nmod josé
+diciendo decir AUX aux levántate
+levántate levántate NOUN advcl apareció
+toma tomar VERB advcl levántate
+niño niño NOUN obl toma
+madre madre NOUN conj niño
+vete vetar NOUN conj levántate
+tierra tierra NOUN obl vete
+israel israel NOUN nmod tierra
+muerto morir VERB advcl levántate
+procuraban procurar VERB csubj muerto
+muerte muerte NOUN obj procuraban
+niño niño NOUN nmod muerte
+
+levantó levantar VERB ROOT levantó
+tomó tomar VERB conj levantó
+niño niño NOUN obj tomó
+madre madre NOUN conj niño
+vino venir VERB conj levantó
+tierra tierra NOUN obl vino
+israel israel NOUN nmod tierra
+
+oyendo oír AUX conj 22
+arquelao arquelao VERB ccomp oyendo
+reinaba reinar VERB obj arquelao
+judea judea NOUN obl reinaba
+herodes herodes NOUN obl reinaba
+padre padre NOUN obj arquelao
+temor temor NOUN obj tuvo
+allá allá ADV advmod ir
+avisado avisar ADJ conj tuvo
+revelación revelación NOUN obj avisado
+sueños sueño NOUN obl avisado
+región región NOUN obl tuvo
+galilea galileo NOUN nmod región
+vino venir NOUN conj galilea
+habitó habitar VERB conj tuvo
+ciudad ciudad NOUN obl habitó
+llama llamar VERB acl ciudad
+nazaret nazaret PROPN obj llama
+cumpliese cumplir VERB advcl habitó
+profetas profeta NOUN obj dicho
+habría haber AUX aux llamado
+llamado llamar VERB acl profetas
+nazareno nazareno ADJ obj llamado
+
+================================================================================
+predicación predicación NOUN ROOT predicación
+juan juan VERB nmod predicación
+bautista bautista NOUN obj predicación
+
+================================================================================
+
+
+1.19 1.19 NOUN nmod 28
+
+================================================================================
+vino venir NOUN acl 1
+juan juan VERB obj vino
+bautista bautista NOUN amod predicando
+predicando predicar VERB advcl vino
+desierto desierto NOUN obj predicando
+judea judea NOUN nmod desierto
+diciendo decir AUX aux arrepentíos
+arrepentíos arrepentíos NOUN conj vino
+reino reinar NOUN nsubj acercado
+cielos cielo NOUN nmod reino
+acercado acercar VERB advcl vino
+
+habló hablar VERB acl aquel
+profeta profeta NOUN obj habló
+isaías isaías NOUN amod profeta
+
+================================================================================
+clama clamar VERB acl voz
+desierto desierto NOUN nmod clama
+
+================================================================================
+preparad preparar VERB ROOT preparad
+camino caminar NOUN obj preparad
+señor señor NOUN nmod camino
+
+================================================================================
+enderezad enderezar VERB ROOT enderezad
+sendas sendos PRON obj enderezad
+
+================================================================================
+juan juan ADJ conj 4
+vestido vestir ADJ ROOT vestido
+pelo pelar NOUN nmod vestido
+camello camello NOUN nmod pelo
+cinto cintar NOUN obj tenía
+cuero cuero NOUN nmod cinto
+lomos lomo NOUN obj tenía
+comida comer NOUN nsubj langostas
+langostas langosta NOUN conj vestido
+miel miel NOUN conj langostas
+silvestre silvestre ADJ obj langostas
+
+salía salir VERB conj 5
+jerusalén jerusalén NOUN ROOT jerusalén
+judea judea NOUN conj jerusalén
+provincia provincia NOUN conj jerusalén
+jordán jordán NOUN obl alrededor
+bautizados bautizar VERB conj 6
+jordán jordán NOUN obl bautizados
+confesando confesar VERB advcl bautizados
+pecados pecar NOUN obj confesando
+
+================================================================================
+fariseos fariseo NOUN nmod muchos
+saduceos saduceo NOUN conj fariseos
+venían venir VERB ccomp ver
+bautismo bautismo NOUN obj venían
+decía decir VERB ROOT decía
+generación generación NOUN ccomp decía
+víboras víbora NOUN nmod generación
+
+enseñó enseñar VERB ROOT enseñó
+huir huir VERB xcomp enseñó
+venidera venidero ADJ amod ira
+
+haced hacer NOUN nsubj decir
+frutos fruto NOUN amod dignos
+dignos digno ADJ appos haced
+arrepentimiento arrepentimiento NOUN nmod dignos
+penséis pensar VERB conj dignos
+abraham abraham VERB obl tenemos
+padre padre NOUN obj tenemos
+digo decir VERB advcl decir
+dios dios NOUN nsubj levantar
+levantar levantar VERB xcomp digo
+hijos hijo NOUN obj levantar
+abraham abraham VERB advcl levantar
+piedras piedra NOUN nmod abraham
+
+hacha hachar NOUN nsubj puesta
+puesta poner ADJ conj 10
+raíz raíz NOUN obj puesta
+árboles árbol NOUN nmod raíz
+árbol árbol NOUN nsubj cortado
+fruto fruto NOUN obj da
+cortado cortar ADJ advcl 10
+echado echar ADJ conj cortado
+fuego fuego NOUN obl echado
+
+================================================================================
+bautizo bautizar VERB ROOT bautizo
+agua aguar NOUN obl bautizo
+arrepentimiento arrepentimiento NOUN obl bautizo
+viene venir VERB csubj poderoso
+cuyo cuyo PRON nmod calzado
+calzado calzar NOUN nsubj digno
+digno dignar ADJ acl mí
+poderoso poderoso ADJ conj bautizo
+bautizará bautizar VERB advcl bautizo
+espíritu espíritu NOUN obl bautizará
+santo santo ADJ amod espíritu
+fuego fuego NOUN conj santo
+
+aventador aventador NOUN nsubj está
+mano manir NOUN obl está
+limpiará limpiar VERB conj está
+recogerá recoger VERB conj limpiará
+trigo trigo NOUN obj recogerá
+granero granero NOUN obl recogerá
+quemará quemar VERB conj recogerá
+paja paja NOUN obj quemará
+fuego fuego NOUN nmod paja
+apagará apagar VERB acl paja
+
+================================================================================
+bautismo bautismo NOUN ROOT bautismo
+jesús jesús NOUN nmod bautismo
+
+================================================================================
+
+
+3.21 3.21 NOUN ROOT 3.21
+
+================================================================================
+jesús jesús ADJ nsubj vino
+vino venir AUX ROOT vino
+galilea galileo NOUN nmod vino
+juan juan NOUN obj vino
+jordán jordán NOUN obj vino
+bautizado bautizar VERB advcl vino
+
+juan juan VERB nsubj oponía
+oponía oponer VERB ROOT oponía
+diciendo decir AUX aux bautizado
+necesito necesitar VERB aux bautizado
+bautizado bautizar VERB advcl oponía
+vienes venir NOUN conj oponía
+
+jesús jesús ADV conj 15
+respondió responder VERB ROOT respondió
+deja dejar VERB ccomp respondió
+conviene convenir VERB advcl deja
+cumplamos cumplir VERB ccomp conviene
+justicia justicia NOUN obj cumplamos
+
+
+jesús jesús ADJ conj 16
+bautizado bautizar VERB advcl después
+subió subir VERB ROOT subió
+agua aguar NOUN obj subió
+cielos cielo NOUN nsubj abiertos
+abiertos abrir VERB conj subió
+espíritu espíritu NOUN obj vio
+dios dios NOUN nmod espíritu
+descendía descender VERB acl dios
+paloma paloma NOUN obl descendía
+venía venir VERB conj vio
+
+cielos cielo NOUN nmod voz
+decía decir VERB acl cielos
+hijo hijo NOUN ccomp decía
+amado amar ADJ amod hijo
+complacencia complacencia NOUN obj tengo
+
+================================================================================
+tentación tentación NOUN ROOT tentación
+jesús jesús NOUN nmod tentación
+
+================================================================================
+
+1.12 1.12 NOUN ROOT 1.12
+
+
+================================================================================
+jesús jesús ADJ nsubj llevado
+llevado llevar VERB ROOT llevado
+espíritu espíritu NOUN obj llevado
+desierto desierto NOUN nmod espíritu
+tentado tentar VERB advcl llevado
+diablo diablo NOUN obj tentado
+
+ayunado ayunar VERB advcl después
+cuarenta cuarenta NUM nummod días
+cuarenta cuarenta NUM nummod noches
+noches noche NOUN conj días
+hambre hambre NOUN obj tuvo
+
+vino venir VERB conj 3
+tentador tentador NOUN obj vino
+hijo hijo NOUN ccomp dijo
+dios dios NOUN nmod hijo
+piedras piedra NOUN nsubj conviertan
+conviertan convertir VERB ccomp hijo
+
+respondió responder VERB ROOT respondió
+escrito escribir ADJ ccomp dijo
+vivirá vivir VERB ccomp está
+hombre hombre NOUN obj vivirá
+palabra palabra NOUN conj respondió
+sale salir VERB acl palabra
+boca boca NOUN obl sale
+dios dios NOUN nmod boca
+
+diablo diablo NOUN nsubj llevó
+llevó llevar VERB ROOT llevó
+santa santo ADJ amod ciudad
+ciudad ciudad NOUN obl llevó
+puso poner VERB conj llevó
+pináculo pináculo NOUN obl puso
+templo templar NOUN nmod pináculo
+hijo hijo NOUN ccomp dijo
+dios dios NOUN nmod hijo
+échate échate NOUN conj hijo
+abajo abajar ADV advmod échate
+escrito escribir ADJ advcl hijo
+
+================================================================================
+ángeles ángel NOUN obj mandará
+mandará mandar VERB ROOT mandará
+acerca acercar ADV case ti
+
+================================================================================
+
+================================================================================
+manos mano NOUN obl sostendrán
+sostendrán sostener VERB ROOT sostendrán
+
+================================================================================
+tropieces tropezar ADJ ROOT tropieces
+piedra piedra NOUN nmod pie
+
+================================================================================
+jesús jesús ADJ nsubj dijo
+escrito escribir ADJ ccomp dijo
+tentarás tentar VERB advcl dijo
+señor señor NOUN obl tentarás
+dios dios NOUN obj tentarás
+
+llevó llevar VERB ROOT llevó
+diablo diablo NOUN nsubj llevó
+monte montar NOUN obl llevó
+alto alto ADJ amod monte
+mostró mostrar VERB conj llevó
+reinos reino NOUN obj mostró
+mundo mundo NOUN nmod reinos
+gloria gloria NOUN conj reinos
+daré dar VERB ccomp dijo
+postrado postrar ADJ advcl daré
+adorares adorar NOUN obj postrado
+
+jesús jesús ADJ nsubj dijo
+vete vetar NOUN obj dijo
+satanás satanás ADJ conj vete
+escrito escribir ADJ advcl dijo
+señor señor NOUN advcl dijo
+dios dios NOUN nsubj señor
+adorarás adorar PROPN amod dios
+servirás servir VERB amod él
+
+diablo diablo NOUN nsubj dejó
+vinieron venir VERB conj dejó
+ángeles ángel NOUN obj vinieron
+servían servir VERB conj vinieron
+
+================================================================================
+jesús jesús ADV amod principia
+principia principiar NOUN ROOT principia
+ministerio ministerio NOUN obj principia
+
+================================================================================
+
+1.14 1.14 NOUN nmod lc
+
+4.14 4.14 NUM nmod 5.1
+6.17 6.17 NUM conj 11
+
+================================================================================
+jesús jesús ADV nsubj oyó
+juan juan VERB nsubj preso
+preso preso ADJ ccomp oyó
+volvió volver AUX aux galilea
+galilea galileo NOUN ROOT galilea
+dejando dejar VERB conj 13
+nazaret nazaret NOUN obj dejando
+vino venir NOUN obj galilea
+habitó habitar VERB conj galilea
+capernaum capernaum NOUN obl habitó
+ciudad ciudad NOUN conj capernaum
+marítima marítimo ADJ amod ciudad
+región región NOUN obl habitó
+zabulón zabulón NOUN nmod región
+neftalí neftalí NOUN conj zabulón
+cumpliese cumplir VERB advcl 14
+profeta profeta NOUN obj dicho
+isaías isaías NOUN amod profeta
+
+================================================================================
+tierra tierra NOUN ROOT tierra
+zabulón zabulón NOUN nmod tierra
+tierra tierra NOUN conj zabulón
+neftalí neftalí NOUN nmod tierra
+
+================================================================================
+camino caminar NOUN ROOT camino
+jordán jordán NOUN nmod lado
+
+================================================================================
+galilea galileo NOUN ROOT galilea
+gentiles gentil NOUN obj galilea
+
+================================================================================
+pueblo poblar NOUN nsubj vio
+asentado asentar ADJ amod pueblo
+tinieblas tiniebla NOUN obl asentado
+
+================================================================================
+asentados asentar ADJ ROOT asentados
+región región NOUN obl asentados
+sombra sombrar NOUN nmod región
+muerte muerte NOUN nmod sombra
+
+================================================================================
+resplandeció resplandecer VERB ROOT resplandeció
+
+================================================================================
+comenzó comenzar VERB ROOT comenzó
+jesús jesús ADV obj comenzó
+predicar predicar VERB acl jesús
+arrepentíos arrepentíos NOUN conj comenzó
+reino reinar NOUN nsubj acercado
+cielos cielo NOUN nmod reino
+acercado acercar VERB advcl comenzó
+
+andando andar VERB advcl vio
+jesús jesús ADV obj andando
+galilea galileo NOUN nmod mar
+hermanos hermano NOUN obj vio
+simón simón NOUN conj hermanos
+llamado llamar ADJ amod hermanos
+pedro pedro NOUN obj llamado
+andrés andrés VERB conj hermanos
+hermano hermanar NOUN obj andrés
+echaban echar VERB acl hermano
+pescadores pescador NOUN advcl vio
+
+venid venir VERB ccomp dijo
+haré hacer DET conj venid
+pescadores pescador NOUN obj haré
+hombres hombre NOUN nmod pescadores
+
+dejando dejar VERB advcl siguieron
+instante instante NOUN fixed al
+redes redar NOUN obj dejando
+siguieron seguir VERB ROOT siguieron
+
+pasando pasar VERB advcl vio
+hermanos hermano NOUN obj vio
+jacobo jacobo NOUN amod hijo
+hijo hijo ADJ appos hermanos
+zebedeo zebedeo NOUN nmod hijo
+juan juan VERB conj vio
+hermano hermanar NOUN obj juan
+barca barca NOUN obl vio
+zebedeo zebedeo NOUN nmod barca
+padre padre NOUN nsubj barca
+remendaban remendar VERB acl padre
+redes redar NOUN obj remendaban
+llamó llamar VERB conj vio
+
+dejando dejar VERB advcl siguieron
+instante instante NOUN fixed al
+barca barca ADJ obj dejando
+padre padre NOUN conj barca
+siguieron seguir VERB ROOT siguieron
+
+================================================================================
+recorrió recorrer VERB conj 23
+jesús jesús ADV obj recorrió
+galilea galileo NOUN obj recorrió
+enseñando enseñar VERB ROOT enseñando
+sinagogas sinagoga NOUN obl enseñando
+predicando predicar VERB conj enseñando
+evangelio evangelio NOUN obj predicando
+reino reinar NOUN nmod evangelio
+sanando sanar VERB conj predicando
+enfermedad enfermedad NOUN obj sanando
+dolencia dolencia NOUN conj enfermedad
+pueblo poblar NOUN obl sanando
+
+difundió difundir VERB conj 24
+fama fama NOUN nsubj difundió
+siria sirio ADJ obl difundió
+trajeron traer VERB conj 24
+tenían tener VERB csubj trajeron
+dolencias dolencia NOUN obj tenían
+afligidos afligir NOUN appos dolencias
+diversas diverso DET det enfermedades
+enfermedades enfermedad NOUN nmod dolencias
+tormentos tormento NOUN conj enfermedades
+endemoniados endemoniar NOUN appos dolencias
+lunáticos lunático ADJ conj dolencias
+paralíticos paralítico ADJ conj dolencias
+sanó sanar VERB conj 24
+
+siguió seguir VERB conj 25
+gente gente NOUN nsubj siguió
+galilea galileo NOUN nmod gente
+decápolis decápolis NOUN conj galilea
+jerusalén jerusalén NOUN conj galilea
+judea judea NOUN nmod gente
+jordán jordán NOUN nmod lado
+
+================================================================================
+sermón sermón NOUN ROOT sermón
+monte montar NOUN nmod sermón
+bienaventuranzas bienaventuranza NOUN appos sermón
+
+================================================================================
+
+6.20 6.20 NOUN ROOT 6.20
+
+================================================================================
+viendo ver VERB advcl vinieron
+multitud multitud NOUN obj viendo
+subió subir VERB advcl viendo
+monte montar NOUN obl subió
+sentándose sentándose VERB conj viendo
+vinieron venir VERB ROOT vinieron
+discípulos discípulo NOUN obj vinieron
+
+abriendo abrir VERB advcl enseñaba
+boca boca NOUN obj abriendo
+enseñaba enseñar VERB ROOT enseñaba
+diciendo decir AUX advcl enseñaba
+
+================================================================================
+bienaventurados bienaventurado ADJ ROOT bienaventurados
+pobres pobre NOUN nsubj bienaventurados
+espíritu espíritu NOUN nmod pobres
+reino reinar NOUN advcl bienaventurados
+cielos cielo NOUN nmod reino
+
+================================================================================
+bienaventurados bienaventurado ADJ ROOT bienaventurados
+lloran llorar VERB ccomp bienaventurados
+recibirán recibir VERB advcl lloran
+consolación consolación NOUN obj recibirán
+
+================================================================================
+bienaventurados bienaventurado ADJ ROOT bienaventurados
+mansos manso NOUN nsubj bienaventurados
+recibirán recibir VERB advcl bienaventurados
+tierra tierra NOUN obj recibirán
+heredad heredar NOUN obl recibirán
+
+================================================================================
+bienaventurados bienaventurado ADJ ROOT bienaventurados
+hambre hambre NOUN obj tienen
+justicia justicia NOUN nmod hambre
+saciados saciar VERB advcl tienen
+
+================================================================================
+bienaventurados bienaventurado ADJ ROOT bienaventurados
+misericordiosos misericordioso NOUN nsubj bienaventurados
+alcanzarán alcanzar VERB advcl bienaventurados
+misericordia misericordia NOUN obj alcanzarán
+
+================================================================================
+bienaventurados bienaventurado ADJ ROOT bienaventurados
+limpio limpiar DET amod corazón
+corazón corazón NOUN nsubj los
+verán ver VERB advcl bienaventurados
+dios dios NOUN obj verán
+
+================================================================================
+bienaventurados bienaventurado ADJ ROOT bienaventurados
+pacificadores pacificador NOUN nsubj bienaventurados
+llamados llamar VERB advcl bienaventurados
+hijos hijo NOUN obj llamados
+dios dios NOUN nmod hijos
+
+================================================================================
+bienaventurados bienaventurado ADJ ROOT bienaventurados
+padecen padecer VERB ccomp bienaventurados
+persecución persecución NOUN obj padecen
+causa causar NOUN fixed por
+justicia justicia NOUN obl padecen
+reino reinar NOUN advcl bienaventurados
+cielos cielo NOUN nmod reino
+
+================================================================================
+bienaventurados bienaventurado ADJ nsubj sois
+causa causar NOUN obl vituperen
+vituperen vituperar VERB advcl sois
+persigan perseguir VERB conj vituperen
+digan decir VERB conj sois
+clase clase NOUN obj digan
+mintiendo mentir VERB advcl digan
+
+gozaos gozaos NOUN ROOT gozaos
+alegraos alegraos NOUN conj gozaos
+galardón galardón NOUN nsubj grande
+grande grande ADJ acl gozaos
+cielos cielo NOUN obl grande
+persiguieron perseguir VERB advcl grande
+profetas profeta NOUN obj persiguieron
+
+================================================================================
+tierra tierra NOUN nmod sal
+
+================================================================================
+tierra tierra NOUN nmod sal
+desvaneciere desvanecer VERB advcl salada
+salada salar VERB conj sois
+
+sirve servir VERB ROOT sirve
+echada echar VERB advcl sino
+hollada hollar ADJ conj fuera
+hombres hombre NOUN obj echada
+
+================================================================================
+mundo mundo NOUN nmod luz
+
+================================================================================
+mundo mundo NOUN nmod luz
+ciudad ciudad NOUN nsubj esconder
+asentada asentar ADJ amod ciudad
+monte montar NOUN obj asentada
+esconder esconder VERB advcl sois
+
+enciende encender VERB conj 15
+pone poner VERB conj 15
+almud almud NOUN obj pone
+candelero candelero NOUN conj almud
+alumbra alumbrar NOUN conj candelero
+casa casar NOUN obl pone
+
+alumbre alumbrar NOUN ROOT alumbre
+hombres hombre NOUN obl delante
+vean ver VERB advcl alumbre
+obras obrar NOUN obj vean
+glorifiquen glorificar VERB conj alumbre
+padre padre NOUN obj glorifiquen
+cielos cielo NOUN obl está
+
+================================================================================
+jesús jesús ADJ ROOT jesús
+
+================================================================================
+penséis pensar VERB ROOT penséis
+venido venir VERB ccomp penséis
+abrogar abrogar VERB advcl venido
+profetas profeta NOUN conj ley
+venido venir VERB advcl penséis
+abrogar abrogar VERB advcl venido
+cumplir cumplir VERB conj venido
+
+digo decir VERB ROOT digo
+pasen pasar VERB advcl pasará
+cielo cielo NOUN obj pasen
+tierra tierra NOUN conj cielo
+jota jota NOUN nsubj pasará
+tilde tildar NOUN conj jota
+pasará pasar VERB ccomp digo
+cumplido cumplir VERB advcl pasará
+
+cualquiera cualquiera PRON obj 19
+quebrante quebrantar VERB nmod uno
+mandamientos mandamiento NOUN nmod uno
+pequeños pequeño ADJ amod mandamientos
+enseñe enseñar VERB conj uno
+hombres hombre NOUN obj enseñe
+pequeño pequeño ADJ amod hombres
+llamado llamar VERB acl cualquiera
+reino reinar NOUN obl llamado
+cielos cielo NOUN nmod reino
+cualquiera cualquiera PRON obj llamado
+haga hacer VERB acl cualquiera
+enseñe enseñar VERB conj cualquiera
+llamado llamar VERB ROOT llamado
+grande grande ADJ obj llamado
+reino reinar NOUN obl llamado
+cielos cielo NOUN nmod reino
+
+digo decir VERB advcl 20
+justicia justicia NOUN nsubj fuere
+fuere ser VERB advcl entraréis
+escribas escribir NOUN appos la
+fariseos fariseo NOUN conj escribas
+entraréis entrar VERB ccomp digo
+reino reinar NOUN obl entraréis
+cielos cielo NOUN nmod reino
+
+================================================================================
+jesús jesús ADJ ROOT jesús
+
+================================================================================
+
+12.57 12.57 NUM ROOT 12.57
+
+================================================================================
+oísteis oír NUM ROOT oísteis
+antiguos antiguo ADJ obj dicho
+matarás matar VERB appos oísteis
+cualquiera cualquiera PRON nsubj culpable
+matare matar VERB acl cualquiera
+culpable culpable ADJ conj matarás
+juicio juicio NOUN nmod culpable
+
+digo decir VERB conj 22
+cualquiera cualquiera PRON nsubj culpable
+enoje enojar VERB acl cualquiera
+hermano hermanar NOUN obl enoje
+culpable culpable ADJ ccomp digo
+juicio juicio NOUN nmod culpable
+cualquiera cualquiera PRON nsubj culpable
+diga decir VERB acl cualquiera
+necio necio NOUN nsubj culpable
+hermano hermanar NOUN nmod necio
+culpable culpable ADJ conj 22
+concilio conciliar NOUN nmod culpable
+cualquiera cualquiera PRON nsubj quedará
+diga decir VERB acl cualquiera
+fatuo fatuo NOUN amod cualquiera
+quedará quedar VERB conj culpable
+expuesto exponer ADJ obj quedará
+infierno infierno NOUN nmod expuesto
+fuego fuego NOUN nmod infierno
+
+traes traer VERB advcl deja
+ofrenda ofrendar NOUN obj traes
+altar altar NOUN obj traes
+acuerdas acordar VERB conj traes
+hermano hermanar NOUN nsubj tiene
+deja dejar VERB ROOT deja
+ofrenda ofrendar VERB amod tu
+altar altar NOUN obl delante
+anda andar VERB conj ofrenda
+reconcíliate reconcíliate NOUN obj deja
+hermano hermanar NOUN obj reconcíliate
+presenta presentar VERB conj ven
+ofrenda ofrendar NOUN obj presenta
+
+ponte ponte ADJ ROOT ponte
+adversario adversario NOUN nmod ponte
+estás estar VERB parataxis entre
+camino caminar NOUN obl estás
+adversario adversario NOUN nsubj entregue
+entregue entregar VERB ccomp sea
+juez juez NOUN obj entregue
+juez juez NOUN conj juez
+alguacil alguacil ADJ nmod juez
+seas ser NOUN conj sea
+echado echar ADJ amod seas
+cárcel cárcel NOUN obl echado
+
+digo decir VERB ROOT digo
+saldrás salir NOUN ccomp digo
+pagues pagar NOUN advcl digo
+cuadrante cuadrante NOUN obj pagues
+
+================================================================================
+jesús jesús ADJ ROOT jesús
+adulterio adulterio NOUN conj jesús
+
+================================================================================
+oísteis oír NUM ROOT oísteis
+cometerás cometer ADP advcl dicho
+adulterio adulterio NOUN obj cometerás
+
+digo decir VERB conj 28
+cualquiera cualquiera PRON nsubj adulteró
+mira mirar VERB acl cualquiera
+mujer mujer NOUN obj mira
+codiciarla codiciarla NOUN obl mira
+adulteró adulterar VERB ccomp digo
+corazón corazón NOUN obl adulteró
+
+derecho derecho ADJ amod ojo
+ocasión ocasión NOUN advcl 29
+caer caer VERB acl ocasión
+sácalo sácalo NOUN obl caer
+échalo échalo NOUN conj ocasión
+pierda perder VERB ccomp es
+miembros miembro NOUN nmod uno
+cuerpo cuerpo NOUN nsubj echado
+echado echar VERB conj pierda
+infierno infierno NOUN obl echado
+
+mano manir NOUN nsubj ocasión
+derecha derecho ADJ amod mano
+ocasión ocasión NOUN conj 30
+caer caer VERB acl ocasión
+córtala córtala NOUN advcl ocasión
+échala échala NOUN conj ocasión
+pierda perder VERB ccomp es
+miembros miembro NOUN nmod uno
+cuerpo cuerpo NOUN nsubj echado
+echado echar VERB conj es
+infierno infierno NOUN obl echado
+
+================================================================================
+jesús jesús ADJ ROOT jesús
+divorcio divorciar NOUN conj jesús
+
+================================================================================
+cualquiera cualquiera PRON nsubj dele
+repudie repudiar VERB acl cualquiera
+mujer mujer NOUN nmod repudie
+dele dele VERB advcl dicho
+carta carta NOUN obj dele
+divorcio divorciar NOUN nmod carta
+
+digo decir VERB conj 32
+repudia repudiar VERB ccomp digo
+mujer mujer NOUN obj repudia
+causa causar NOUN fixed por
+fornicación fornicación NOUN obl ser
+adultere adulterar VERB ccomp hace
+casa casar VERB conj hace
+repudiada repudiar ADJ obl casa
+comete cometer NOUN appos repudiada
+adulterio adulterio ADJ amod comete
+
+================================================================================
+jesús jesús ADJ ROOT jesús
+juramentos juramento NOUN conj jesús
+
+================================================================================
+habéis haber AUX aux oído
+oído oír VERB ROOT oído
+antiguos antiguo ADJ obj dicho
+perjurarás perjurar VERB advcl oído
+cumplirás cumplir NOUN conj perjurarás
+señor señor NOUN nmod cumplirás
+juramentos juramento ADJ nmod cumplirás
+
+digo decir VERB conj 34
+juréis jurar VERB ccomp digo
+cielo cielo NOUN conj 34
+trono trono NOUN advcl 34
+dios dios NOUN nmod trono
+tierra tierra NOUN conj 35
+estrado estrado NOUN advcl 35
+pies pie NOUN nmod estrado
+jerusalén jerusalén NOUN conj 35
+ciudad ciudad NOUN advcl 34
+
+cabeza cabeza NOUN conj 36
+jurarás jurar NOUN ROOT jurarás
+puedes poder AUX aux hacer
+blanco blanco ADJ obj hacer
+negro negro NOUN conj blanco
+cabello cabellar NOUN obj hacer
+
+hablar hablar VERB csubj vuestro
+procede proceder VERB advcl 37
+
+================================================================================
+amor amor NOUN ROOT amor
+enemigos enemigo NOUN nmod amor
+
+================================================================================
+
+6.27 6.27 NOUN ROOT 6.27
+
+================================================================================
+oísteis oír NUM ROOT oísteis
+diente dentar ADJ conj ojo
+diente dentar NOUN nmod diente
+
+digo decir VERB conj 39
+resistáis resistir ADJ advcl 39
+malo malo ADJ ccomp resistáis
+cualquiera cualquiera PRON obl vuélvele
+hiera herir VERB acl cualquiera
+mejilla mejilla NOUN obl hiera
+derecha derecho ADJ amod mejilla
+vuélvele vuélvele VERB advcl 39
+quiera querer VERB conj 40
+ponerte ponerte NOUN obj quiera
+pleito pleito NOUN obj ponerte
+quitarte quitarte ADV conj ponerte
+túnica túnica NOUN obj quitarte
+déjale déjale CONJ ROOT déjale
+capa capar NOUN obj déjale
+cualquiera cualquiera PRON conj 41
+obligue obligar VERB acl cualquiera
+carga cargar NOUN obj llevar
+milla milla NOUN obl llevar
+
+pida pedir VERB acl 42
+dale dale ADJ advcl 42
+quiera querer VERB aux tomar
+tomar tomar VERB advcl se
+prestado prestar ADJ amod ti
+rehúses rehusar ADJ nsubj se
+
+================================================================================
+oísteis oír NUM ROOT oísteis
+amarás amar ADV acl oísteis
+prójimo prójimo NOUN nmod amarás
+aborrecerás aborrecer VERB conj amarás
+enemigo enemigo ADJ nmod aborrecerás
+
+digo decir VERB conj 44
+amad amar NOUN ccomp digo
+enemigos enemigo NOUN amod vuestros
+bendecid bendecir NOUN amod vuestros
+maldicen maldecir VERB acl bendecid
+haced hacer VERB ROOT haced
+aborrecen aborrecer VERB ccomp haced
+orad orar VERB conj haced
+ultrajan ultrajar VERB ccomp orad
+persiguen perseguir VERB conj ultrajan
+seáis ser VERB acl 45
+hijos hijo NOUN obj seáis
+padre padre NOUN nmod hijos
+cielos cielo NOUN obl está
+salir salir VERB acl hijos
+malos malo NOUN nmod sol
+llover llover VERB conj salir
+justos justo ADJ obl llover
+injustos injusto NOUN conj justos
+
+amáis amar VERB advcl recompensa
+aman amar VERB ccomp amáis
+recompensa recompensar VERB advcl 46
+tendréis tener VERB obj recompensa
+
+publicanos publicano NOUN nsubj hacen
+
+saludáis saludar VERB conj 47
+hermanos hermano NOUN amod vuestros
+hacéis hacer NOUN ROOT hacéis
+
+gentiles gentil NOUN nsubj hacen
+
+perfectos perfecto ADJ nsubj perfecto
+padre padre NOUN nmod perfectos
+cielos cielo NOUN obl está
+perfecto perfecto ADJ acl sed
+
+================================================================================
+jesús jesús ADJ ROOT jesús
+limosna limosna NOUN conj jesús
+
+================================================================================
+guardaos guardaos NOUN ROOT guardaos
+justicia justicia NOUN obj hacer
+hombres hombre NOUN obl delante
+vistos ver NOUN acl guardaos
+tendréis tener VERB acl guardaos
+recompensa recompensar NOUN obj tendréis
+padre padre NOUN nmod recompensa
+cielos cielo NOUN obl está
+
+================================================================================
+limosna limosna NOUN advcl hagas
+hagas hacer NOUN advcl digo
+tocar tocar VERB csubj hagas
+trompeta trompeta VERB obj tocar
+hipócritas hipócrita NOUN nsubj hacen
+sinagogas sinagoga NOUN obl hacen
+calles calle NOUN conj sinagogas
+alabados alabar VERB advcl hagas
+hombres hombre NOUN obj alabados
+digo decir VERB ROOT digo
+recompensa recompensar NOUN obj tienen
+
+limosna limosna NOUN ROOT limosna
+sepa saber PROPN advcl limosna
+izquierda izquierdo NOUN obj sepa
+derecha derecho NOUN obj hace
+limosna limosna NOUN conj limosna
+secreto secretar NOUN obl limosna
+padre padre NOUN nsubj recompensará
+secreto secretar VERB obl ve
+recompensará recompensar VERB conj limosna
+público público NOUN fixed en
+
+================================================================================
+jesús jesús ADJ ROOT jesús
+oración oración NOUN conj jesús
+
+================================================================================
+
+11.2 11.2 NUM ROOT 11.2
+
+================================================================================
+ores orar NOUN conj 5
+seas ser AUX conj 5
+hipócritas hipócrita NOUN nmod seas
+aman amar VERB advcl 5
+orar orar VERB xcomp aman
+sinagogas sinagoga NOUN obl orar
+esquinas esquinar NOUN conj sinagogas
+calles calle NOUN nmod esquinas
+vistos ver NOUN advcl aman
+hombres hombre NOUN obj vistos
+digo decir VERB advcl aman
+recompensa recompensar NOUN obj tienen
+
+ores orar NOUN nmod tú
+entra entrar VERB ROOT entra
+aposento aposentar NOUN obl entra
+cerrada cerrar ADJ conj entra
+puerta puerta NOUN obj cerrada
+padre padre NOUN iobj ora
+secreto secretar NOUN acl padre
+padre padre NOUN nsubj recompensará
+secreto secretar VERB obl ve
+recompensará recompensar VERB conj entra
+público público NOUN fixed en
+
+================================================================================
+orando orar VERB conj 7
+uséis usar VERB advcl 7
+vanas vano ADJ obj uséis
+repeticiones repetición NOUN amod vanas
+gentiles gentil NOUN obl uséis
+piensan pensar VERB acl gentiles
+palabrería palabrería NOUN obl oídos
+oídos oír NOUN ccomp piensan
+
+hagáis hacer VERB ROOT hagáis
+semejantes semejante ADJ advmod pues
+padre padre NOUN nsubj sabe
+tenéis tener ADJ det necesidad
+necesidad necesidad NOUN obj sabe
+pidáis pedir VERB advcl antes
+
+oraréis orar VERB ROOT oraréis
+padre padre NOUN obj oraréis
+estás estar VERB acl padre
+cielos cielo NOUN obl estás
+santificado santificar ADJ amod padre
+nombre nombrar NOUN conj padre
+
+venga venir VERB ROOT venga
+reino reinar NOUN obj venga
+
+hágase hágase VERB ROOT hágase
+voluntad voluntad NOUN obj hágase
+cielo cielo NOUN obl hágase
+tierra tierra NOUN obl hágase
+
+dánoslo dánoslo VERB appos pan
+
+perdónanos perdónanos NOUN conj 12
+deudas deuda NOUN conj 12
+perdonamos perdonar VERB advcl 12
+deudores deudor NOUN obj perdonamos
+
+metas meter NOUN conj 13
+tentación tentación NOUN nmod metas
+líbranos líbranos ADJ appos 13
+reino reinar NOUN advcl 13
+gloria gloria NOUN conj reino
+siglos siglo NOUN nmod gloria
+
+amén amén ADV ROOT amén
+
+perdonáis perdonar AUX advcl perdonará
+hombres hombre NOUN obj perdonáis
+ofensas ofensa NOUN obj perdonáis
+perdonará perdonar VERB advcl perdonáis
+padre padre NOUN appos vosotros
+celestial celestial ADJ amod padre
+perdonáis perdonar AUX ROOT perdonáis
+hombres hombre NOUN obj perdonáis
+ofensas ofensa NOUN obj perdonáis
+padre padre NOUN nsubj perdonará
+perdonará perdonar VERB advcl perdonáis
+ofensas ofensa ADJ obj perdonará
+
+================================================================================
+jesús jesús ADJ ROOT jesús
+ayuno ayunar NOUN conj jesús
+
+================================================================================
+ayunéis ayunar VERB advcl seáis
+seáis ser VERB ROOT seáis
+austeros austero NOUN obj seáis
+hipócritas hipócrita NOUN obl seáis
+demudan demudar VERB advcl seáis
+rostros rostro NOUN obj demudan
+mostrar mostrar VERB advcl demudan
+hombres hombre NOUN obj mostrar
+ayunan ayunar VERB acl hombres
+digo decir VERB advcl demudan
+recompensa recompensar NOUN obj tienen
+
+ayunes ayunar NOUN nmod tú
+unge ungir ADJ ROOT unge
+cabeza cabeza NOUN obj unge
+lava lavar ADJ conj unge
+rostro rostro NOUN obj lava
+mostrar mostrar VERB acl 18
+hombres hombre NOUN obj mostrar
+ayunas ayuno ADJ acl hombres
+padre padre NOUN conj unge
+secreto secretar NOUN acl padre
+padre padre NOUN nsubj recompensará
+secreto secretar VERB obl ve
+recompensará recompensar VERB conj unge
+público público NOUN fixed en
+
+================================================================================
